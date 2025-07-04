@@ -1,4 +1,4 @@
 <?php 
-$versao = 4;
+$versao = 5;
 echo $versao;
 ?>
